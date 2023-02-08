@@ -3,7 +3,6 @@ package org.tnsif.intro;
 public class DataTypeDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte a = 127;
 		int b = 128;
 		float c = 12/5;
@@ -12,7 +11,7 @@ public class DataTypeDemo {
 		double f=12d/5d;
 		char z = 's'; //character
 		int x='c'; //ASCII representation
-		boolean y=true;
+		//boolean y =true;
 
 		String name = "Shruti";
 		System.out.println("The byte value of a is:"+a);
@@ -25,9 +24,5 @@ public class DataTypeDemo {
 		System.out.println("The char value of z is:"+z);
 		System.out.println("The ascii value of x is:"+x);
 		System.out.println("The name is:"+name);
-
-
-
 	}
-
 }

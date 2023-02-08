@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class ForDemo {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the value of i");
 		int n=s.nextInt();
@@ -23,8 +23,8 @@ public class ForDemo {
 		{
 			System.out.println(i+" ");
 		}
+		s.close();
 	}
-
 }
 
 /*OUTPUT

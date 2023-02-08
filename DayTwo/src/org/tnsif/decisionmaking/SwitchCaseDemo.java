@@ -24,6 +24,7 @@ public class SwitchCaseDemo {
 			System.out.println("Explore More songs!!!");
 			break;
 		}
+		sc.close();
 	}
 }
 

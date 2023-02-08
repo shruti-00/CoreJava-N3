@@ -18,7 +18,7 @@ public class IfElseDemo {
 		{
 			System.out.println("a is not greater than b");
 		}
-
+		sc.close();
 	}
 
 }

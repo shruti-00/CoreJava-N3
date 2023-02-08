@@ -31,6 +31,7 @@ public class NestedIfDemo {
 		{
 			System.out.println("Not Eligible for age less than 12 ");
 		}
+		sc.close();
 	}
 
 }

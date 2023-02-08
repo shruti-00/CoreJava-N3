@@ -24,6 +24,7 @@ public class CascadedIfElseDemo {
 		{
 			System.out.println("c is greater than a and b ");
 		}
+		sc.close();
 	}
 
 }

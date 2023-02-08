@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class IfDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the value of a and b");
 		int a=sc.nextInt();
@@ -15,7 +14,8 @@ public class IfDemo {
 		{ 		 
 			System.out.println("value of a is equal to b");
 			//System.out.println("value of a is not equal to b");
-		}	
+		}
+		sc.close();
 	}
 
 }

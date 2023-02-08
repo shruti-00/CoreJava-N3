@@ -26,6 +26,7 @@ public class WhileDemo {
 			}
 		}
 		else System.out.println("Bye...");
+		sc.close();
 	}
 
 }
