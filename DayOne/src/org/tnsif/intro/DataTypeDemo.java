@@ -8,7 +8,7 @@ public class DataTypeDemo {
 		float c = 12/5;
 		float d =5/2.5f;
 		double e=12/5;
-		double f=12d/5d;
+		double f=12d/5d;   //2.0 after giving the d 
 		char z = 's'; //character
 		int x='c'; //ASCII representation
 		//boolean y =true;
