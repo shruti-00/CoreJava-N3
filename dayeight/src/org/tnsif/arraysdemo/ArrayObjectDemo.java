@@ -20,8 +20,6 @@ public class ArrayObjectDemo {
 		for(int j = 0; j<n; j++)
 		{
 			System.out.println(arr[j].getRollno()+" "+arr[j].getName()+" "+arr[j].getPercentage());
-		}
-		
+		}	
 	}
-
 }

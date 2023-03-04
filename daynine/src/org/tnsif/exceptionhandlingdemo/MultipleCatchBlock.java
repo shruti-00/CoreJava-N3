@@ -29,3 +29,7 @@ public class MultipleCatchBlock {
 		
 	}
 }
+
+/*OUTPUT
+The array doesnt have third element
+*/

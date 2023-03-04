@@ -23,3 +23,13 @@ public class Receiver {
 		}
 	}
 }
+
+/*OUTPUT
+Sending Hello
+
+Hellosent
+
+Sending Welcome to corejava tutorials..
+
+Welcome to corejava tutorials..sent
+*/
